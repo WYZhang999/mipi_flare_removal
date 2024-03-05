@@ -1,7 +1,7 @@
 # mipi_flare_removal
 To train the model:
 ```python  
-python train.py ./basicsr/train.py -opt ./options/uformer_mipi_option.yml
+python train.py ./basicdr/train.py -opt ./options/uformer_mipi_option.yml
 ```
 To test:
 ```python  
